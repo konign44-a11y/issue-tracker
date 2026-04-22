@@ -11,6 +11,7 @@ issue {
   DATETIME deadline
   BOOL is_done
   TEXT desctiption
+}
 
 ```
 
